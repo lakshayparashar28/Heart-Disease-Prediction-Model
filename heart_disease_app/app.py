@@ -5,7 +5,7 @@ import joblib
 import sqlite3
 
 # Load trained model
-model = joblib.load("heart_disease_model.pkl")
+model = joblib.load("heart_disease_app/heart_disease_model.pkl")
 
 # Initialize DB
 conn = sqlite3.connect("user_data.db")
