@@ -36,7 +36,7 @@ The **Heart Disease Prediction Web App** is a major project created as part of m
 
 ## 🌐 Live App
 
-🔗 [Click here to open the Heart Disease Predictor App](https://yourusername.streamlit.app/)  
+🔗 [Click here to open the Heart Disease Predictor App](https://heartdiseasepredictmodel.streamlit.app/)  
 
 ---
 
